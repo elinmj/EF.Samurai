@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Ef.Samurai.Domain
+namespace EfSamurai.Domain
 {
     public class Class1
     {

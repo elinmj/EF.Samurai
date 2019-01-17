@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Ef.Samurai.Data
+namespace EfSamurai.Data
 {
     public class Class1
     {
